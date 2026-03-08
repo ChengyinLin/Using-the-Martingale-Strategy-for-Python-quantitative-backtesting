@@ -10,6 +10,7 @@ Using the Martingale Strategy for Python quantitative backtesting
 | 第2次  | \$20 | 亏损     | -\$30     |
 | 第3次  | \$40 | 亏损     | -\$70     |
 | 第4次  | \$80 | **盈利** | **+\$10** |
+
 关键逻辑：只要赢一次，就能收回所有亏损并获得最初设定的利润。
 
 ### 优点 ✅
